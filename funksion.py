@@ -115,7 +115,7 @@ print("bobur fayzullayev")
 #         print(" ")
         
 
-
+#matplotlib
 # d=s(n)
 # print(d)
 
