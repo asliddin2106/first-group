@@ -75,5 +75,40 @@ print("bobur fayzullayev")
 # def son(n):
 #     while n:
 #         print(n)
-#         n=n-1
+#       
+
+# a=son(n)
+# print(a)
+
+# n=int(input())
+
+# def sa(n):
+#     m=n
+#     for i in range(1,n+1):
+#         for j in range(m):
+#             print(i,end=" ")
+#         print(" ")
+#         m=m-1
+# sa(n)
+
+# n=int(input(""))
+
+# def a(n):
+#     m=n
+#     for i in range(1,n+1):
+#         for j in range(m):
+#             print(i,end=" ")
+#         print(" ")
+#         m=m-1
+
+# d=a(n)
+# print(d)
+
+# n=int(input())
+
+# def s(n):
+#     m=n
+#     for i in range(1,n+1):
+#         for j in range(i+1):
+#             print(i,end=" ")
 
