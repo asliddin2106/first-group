@@ -75,8 +75,7 @@ print("bobur fayzullayev")
 # def son(n):
 #     while n:
 #         print(n)
-#         n=n-1
-
+#       
 
 # a=son(n)
 # print(a)
@@ -112,10 +111,4 @@ print("bobur fayzullayev")
 #     for i in range(1,n+1):
 #         for j in range(i+1):
 #             print(i,end=" ")
-#         print(" ")
-        
-
-#matplotlib
-# d=s(n)
-# print(d)
 
