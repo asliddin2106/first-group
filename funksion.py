@@ -9,18 +9,11 @@ def yili(ism,familya,yosh):
 b=yili(ism,familya,yosh)
 print(b)
 
-#   2-misol
 
-# n=int(input("Biron bir son kiriting:"))
 
-# def kv_kb(n):
-#     print(f"Kiritgan soningizni kvadrati: {n*n} ga teng")
-#     print(f"Kiritgan soningizni kubi: {n*n*n} ga teng")
 
-# d=kv_kb(n)
-# print(d)
 
-# 3-misol
+print("bobur fayzullayev")
 
 # n=int(input("Biron bir son kiriting:"))
 
