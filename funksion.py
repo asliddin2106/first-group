@@ -2,6 +2,7 @@ ism=input("ismingizni kiriting:")
 familya=input("familyangizni kiriting:")
 yosh=int(input("yoshingizdi kiriting:"))
 joriy_yil=int(input("Joriy yilni kiriting:"))
+yashash_joyi=int(intput("Yashash joyini kiriting:"))
 
 def yili(ism,familya,yosh):
     print(f"{familya}\n{ism} Siz  {joriy_yil-yosh}-yil tug'ilgansiz")
