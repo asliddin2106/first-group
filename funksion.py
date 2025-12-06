@@ -9,7 +9,7 @@ def yili(ism,familya,yosh):
 b=yili(ism,familya,yosh)
 print(b)
 
-
+print(909090)
 
 
 
